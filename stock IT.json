@@ -1,0 +1,83 @@
+{
+  "Stock arrière": {
+    "Catégories": {
+      "Imprimantes": {
+        "Encre": {
+          "EPSON Bleu/Cyan WF-6090 / WF-6590 T9072": 1,
+          "EPSON Noir WF-6090 / WF-6590 T9071": 1,
+          "EPSON Magenta WF-6090 / WF-6590 T9073": 1
+        },
+        "Toner": {}
+      },
+      "Réseau": {
+        "Routeur configuration fixe ISR Cisco 890": {
+          "État": "Non vérifié",
+          "qte": 1
+        },
+        "Client ZÉRO MD-100": {
+          "État": "Fonctionnel",
+          "qte": 1
+        }
+      },
+      "Câbles": {
+        "Câble de données industrielles F5 AWG individual screened two pair data 22AWG 66M": 1,
+        "VGA vers VGA": 2,
+        "VGA vers Ethernet": 1,
+        "USB-A vers USB-B": 3,
+        "RJ45": {
+          "Cat1": 1,
+          "Cat2": 1,
+          "Cat3": 1,
+          "Cat4": 1,
+          "Cat5": 1
+        },
+        "Alimentation": {}
+      },
+      "Périphériques": {
+        "Bumper": {
+          "État": "Fonctionnel mais scotché",
+          "qte": 1
+        },
+        "Scanner RFID carte manager extérieur vers USB": {
+          "État": "Fonctionnel",
+          "qte": 1
+        },
+        "Clavier": {
+          "État": "Fonctionnel",
+          "qte": 3,
+          "Note": "+1 a une prise ancienne qui n'est plus supportée sans adaptateur"
+        },
+        "Souris": {
+          "État": "Fonctionnel",
+          "qte": 1
+        },
+        "Écran VGA": {
+          "État": "Fonctionnel",
+          "qte": 1
+        },
+        "Set imprimante ticket collant": {
+          "État": "Fonctionnel",
+          "qte": 2
+        },
+        "Pistolet code-barres": {
+          "État": "Fonctionnel",
+          "qte": 1
+        },
+        "Support de charge TPE": {
+          "État": "Fonctionnel",
+          "qte": 1
+        }
+      },
+      "Divers": {
+        "Cadre d'affichage": {
+          "État": "Fonctionnel",
+          "qte": 2
+        },
+        "Support de Client Zéro": {
+          "État": "Fonctionnel",
+          "qte": 2
+        }
+      }
+    }
+  }
+}
