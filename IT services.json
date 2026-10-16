@@ -1,1 +1,21 @@
 
+{
+  "version": "1.0",
+  "updated_at": "2026-10-16T02:30:00Z",
+  "users": [
+    {
+      "id": "usr_a1b2c3d4",
+      "username": "admin",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$gX8K...$zQ9L...",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "usr_e5f6g7h8",
+      "username": "tech_it",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$kM2P...$pX4T...",
+      "role": "technician",
+      "active": true
+    }
+  ]
+}
