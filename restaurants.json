@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "id": "default",
+      "name": "Restaurant Principal"
+    },
+    {
+      "id": "restau_rangeuil_drive",
+      "name": "Rangeuil Drive"
+    }
+  ]
+}
