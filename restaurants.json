@@ -3,6 +3,10 @@
     {
       "id": "restau_rangeuil_drive",
       "name": "Rangeuil Drive"
+    },
+    {
+      "id": "restau_castanet",
+      "name": "Castanet"
     }
   ]
 }
