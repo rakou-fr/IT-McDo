@@ -1,5 +1,13 @@
 {
   "Stock arrière": {
-    "Catégories": {}
+    "Catégories": {
+      "Cables": {
+        "RJ45": {
+          "État": "Fonctionnel",
+          "qte": 1,
+          "Note": "Cat 7, 2m"
+        }
+      }
+    }
   }
 }
