@@ -37,13 +37,13 @@
           "stepNumber": 1,
           "title": "Vérifier le voyant d'alimentation sous le socle",
           "description": "Ouvre la porte inférieure de la borne avec la clé n°2. Vérifie si le bloc multiprise et le PC interne sont allumés (voyant vert/bleu).",
-          "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/step-kiosk-1.png"
+          "imageUrl": "https://www.digilor.fr/wp-content/uploads/2021/10/borne-tactile-paiement-mctouch-27-pouces.jpg"
         },
         {
           "stepNumber": 2,
           "title": "Redémarrage électrique propre du PC interne",
           "description": "Appuie une fois sur le bouton Power du micro-PC interne. Attends 10 secondes puis réappuie pour relancer la séquence de boot.",
-          "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/step-kiosk-2.png"
+          "imageUrl": "https://www.digilor.fr/wp-content/uploads/2021/10/borne-tactile-paiement-mctouch-27-pouces.jpg"
         }
       ]
     },
