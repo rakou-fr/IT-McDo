@@ -1,0 +1,87 @@
+{
+  "equipments": [
+    {
+      "id": "kiosk",
+      "name": "Bornes de commande",
+      "category": "Front-Office",
+      "description": "Bornes tactiles Acrelec / NCR pour la prise de commande client.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/kiosk.png"
+    },
+    {
+      "id": "kds",
+      "name": "Écrans Cuisine (KDS)",
+      "category": "Cuisine",
+      "description": "Moniteurs d'affichage des commandes en cuisine et assemblage.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/kds.png"
+    },
+    {
+      "id": "printer",
+      "name": "Imprimantes Tickets & Étiquettes",
+      "category": "Caisse & Production",
+      "description": "Imprimantes Epson TM-T88 / TSP100 pour caisses et étiquettes V2.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/printer.png"
+    }
+  ],
+  "tutorials": [
+    {
+      "id": "kiosk-black-screen",
+      "equipmentId": "kiosk",
+      "title": "Borne bloquée sur écran noir ou figé",
+      "description": "Procédure de redémarrage électrique et vérification du contrôleur tactile.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/kiosk-error.png",
+      "targetRole": "manager",
+      "category": "Alimentation / Écran",
+      "tags": ["borne", "ecran", "noir", "tactile", "acrelec", "ncr", "bloque"],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Vérifier le voyant d'alimentation sous le socle",
+          "description": "Ouvre la porte inférieure de la borne avec la clé n°2. Vérifie si le bloc multiprise et le PC interne sont allumés (voyant vert/bleu).",
+          "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/step-kiosk-1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Redémarrage électrique propre du PC interne",
+          "description": "Appuie une fois sur le bouton Power du micro-PC interne. Attends 10 secondes puis réappuie pour relancer la séquence de boot.",
+          "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/step-kiosk-2.png"
+        }
+      ]
+    },
+    {
+      "id": "printer-label-jam",
+      "equipmentId": "printer",
+      "title": "Imprimante étiquettes assemblage bloquée / voyant rouge",
+      "description": "Nettoyage du rouleau d'entraînement et débourrage des rouleaux d'étiquettes.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/printer-error.png",
+      "targetRole": "manager",
+      "category": "Consommable",
+      "tags": ["imprimante", "etiquette", "coince", "rouge", "epson", "papier"],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Ouvrir le capot et retirer le rouleau",
+          "description": "Pousse le levier latéral vers l'arrière pour ouvrir la tête d'impression. Retire le rouleau d'étiquettes coincé sans utiliser d'objet métallique.",
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "kds-ip-reset",
+      "equipmentId": "kds",
+      "title": "Reconfiguration d'adresse IP d'un écran KDS déconnecté",
+      "description": "Attribution d'une IP fixe via le menu de configuration du contrôleur.",
+      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/kds-config.png",
+      "targetRole": "it",
+      "category": "Réseau",
+      "tags": ["kds", "ip", "reseau", "deconnecte", "ping", "switch"],
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Accéder au menu d'administration",
+          "description": "Branche un clavier USB sous le boîtier KDS et presse la touche F2 au démarrage pour entrer dans le menu système.",
+          "imageUrl": ""
+        }
+      ]
+    }
+  ]
+}
