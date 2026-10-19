@@ -28,7 +28,7 @@
       "equipmentId": "kiosk",
       "title": "Borne bloquée sur écran noir ou figé",
       "description": "Procédure de redémarrage électrique et vérification du contrôleur tactile.",
-      "imageUrl": "https://raw.githubusercontent.com/rakou-fr/McDonald-s-IT-HUB/main/public/assets/wiki/kiosk-error.png",
+      "imageUrl": "https://www.digilor.fr/wp-content/uploads/2021/10/borne-tactile-paiement-mctouch-27-pouces.jpg",
       "targetRole": "manager",
       "category": "Alimentation / Écran",
       "tags": ["borne", "ecran", "noir", "tactile", "acrelec", "ncr", "bloque"],
