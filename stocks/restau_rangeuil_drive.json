@@ -25,7 +25,12 @@
           "Cat2": 1,
           "Cat3": 1,
           "Cat4": 1,
-          "Cat5": 1
+          "Cat5": 1,
+          "cat 6 F/UTP": {
+            "État": "Fonctionnel",
+            "qte": 4,
+            "Note": "FTP et UDP"
+          }
         }
       },
       "Périphériques": {
