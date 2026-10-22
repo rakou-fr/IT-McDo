@@ -31,7 +31,12 @@
             "qte": 2,
             "Note": "X1 2m"
           },
-          "cat 8": 1
+          "cat 8": 1,
+          "cat ?": {
+            "État": "Fonctionnel",
+            "qte": 7,
+            "Note": "taille différente"
+          }
         }
       },
       "Périphériques": {
