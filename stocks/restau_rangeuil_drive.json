@@ -25,6 +25,11 @@
             "État": "Fonctionnel",
             "qte": 4,
             "Note": "FTP et UDP"
+          },
+          "CAT 7": {
+            "État": "Fonctionnel",
+            "qte": 2,
+            "Note": "X1 2m"
           }
         }
       },
