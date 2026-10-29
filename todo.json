@@ -1,27 +1,5 @@
 {
-  "todos": [
-    {
-      "id": "todo_01",
-      "text": "Remplacer rouleau d'imprimante Caisse 3 - Capitole",
-      "status": "en cours",
-      "createdAt": "09:30",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_02",
-      "text": "Vérifier la borne kioque #2 bloquée en écran noir",
-      "status": "à faire",
-      "createdAt": "10:15",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_03",
-      "text": "Nettoyage filtre du switch baie informatique",
-      "status": "fait",
-      "createdAt": "08:45",
-      "createdBy": "admin"
-    }
-  ],
+  "todos": [],
   "history": [
     {
       "date": "2026-10-28",
