@@ -27,6 +27,27 @@
       "status": "fait",
       "createdAt": "14:18",
       "createdBy": "admin"
+    },
+    {
+      "id": "todo_55rrzx6",
+      "text": "faire devis des composants info boitier perte",
+      "status": "à faire",
+      "createdAt": "14:30",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_arz35js",
+      "text": "faire schema composant nécéssaire boitier perte",
+      "status": "à faire",
+      "createdAt": "14:30",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_8eoy51c",
+      "text": "road map projet boitier perte",
+      "status": "à faire",
+      "createdAt": "14:31",
+      "createdBy": "admin"
     }
   ],
   "history": [
