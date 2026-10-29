@@ -1,11 +1,67 @@
 {
   "todos": [
     {
-      "id": "todo_pghizyy",
-      "text": "Présentation projet perte cuisine",
-      "createdAt": "08:59",
+      "id": "todo_01",
+      "text": "Remplacer rouleau d'imprimante Caisse 3 - Capitole",
+      "status": "en cours",
+      "createdAt": "09:30",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_02",
+      "text": "Vérifier la borne kioque #2 bloquée en écran noir",
+      "status": "à faire",
+      "createdAt": "10:15",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_03",
+      "text": "Nettoyage filtre du switch baie informatique",
+      "status": "fait",
+      "createdAt": "08:45",
       "createdBy": "admin"
     }
   ],
-  "history": []
+  "history": [
+    {
+      "date": "2026-10-28",
+      "validatedBy": "admin",
+      "completedTasks": [
+        {
+          "id": "h1_1",
+          "text": "Inventaire annuel des scanners douchette",
+          "status": "fait",
+          "createdAt": "11:00",
+          "createdBy": "admin"
+        },
+        {
+          "id": "h1_2",
+          "text": "Remplacement câble RJ45 de l'écran Cuisine 1",
+          "status": "fait",
+          "createdAt": "14:20",
+          "createdBy": "admin"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "validatedBy": "technicien_it",
+      "completedTasks": [
+        {
+          "id": "h2_1",
+          "text": "Reconfiguration IP de la caisse Drive 2",
+          "status": "fait",
+          "createdAt": "16:45",
+          "createdBy": "technicien_it"
+        },
+        {
+          "id": "h2_2",
+          "text": "Test de secours Onduleur serveur central",
+          "status": "fait",
+          "createdAt": "17:10",
+          "createdBy": "technicien_it"
+        }
+      ]
+    }
+  ]
 }
