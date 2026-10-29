@@ -13,7 +13,11 @@
           "État": "Non vérifié",
           "qte": 1
         },
-        "Client ZÉRO MD-100": 2
+        "Client ZÉRO MD-100": {
+          "État": "Fonctionnel",
+          "qte": 2,
+          "Note": "KVS02 problème de programmation, etiquetter"
+        }
       },
       "Câbles": {
         "Câble de données industrielles F5 AWG individual screened two pair data 22AWG 66M": 1,
