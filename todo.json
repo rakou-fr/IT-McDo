@@ -20,6 +20,13 @@
       "status": "fait",
       "createdAt": "14:18",
       "createdBy": "admin"
+    },
+    {
+      "id": "todo_v7donki",
+      "text": "Mettre à jour le stock IT",
+      "status": "fait",
+      "createdAt": "14:18",
+      "createdBy": "admin"
     }
   ],
   "history": [
