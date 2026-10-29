@@ -1,5 +1,27 @@
 {
-  "todos": [],
+  "todos": [
+    {
+      "id": "todo_ub6873q",
+      "text": "Présenter projet boitier perte",
+      "status": "à faire",
+      "createdAt": "14:17",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_93qybsx",
+      "text": "Envoyer devis model 3D",
+      "status": "à faire",
+      "createdAt": "14:17",
+      "createdBy": "admin"
+    },
+    {
+      "id": "todo_eml0xrc",
+      "text": "Rajouter app ToDo sur hub IT",
+      "status": "fait",
+      "createdAt": "14:18",
+      "createdBy": "admin"
+    }
+  ],
   "history": [
     {
       "date": "2026-10-28",
