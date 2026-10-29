@@ -1,6 +1,30 @@
 {
   "devisList": [
     {
+      "id": "devis_o8uzjsk",
+      "title": "Projet boitier perte",
+      "projectName": "BT",
+      "restaurantName": "0206 Rangeuil",
+      "createdBy": "admin",
+      "createdAt": "2026-10-29",
+      "status": "brouillon",
+      "notes": "En attente de confirmation",
+      "items": [
+        {
+          "id": "item_qfd89sf",
+          "name": "Devis impression 3D boitier de support",
+          "price": 0,
+          "quantity": 1,
+          "link": "https://toulouse3dprint.fr/",
+          "source": "Toulouse 3D impression",
+          "deliveryTime": "?",
+          "imageUrl": "",
+          "description": ""
+        }
+      ],
+      "totalAmount": 0
+    },
+    {
       "id": "devis_demo_01",
       "title": "Remplacement Bornes Tactiles Capitole",
       "projectName": "Modernisation Kiosques",
@@ -9,14 +33,14 @@
       "createdAt": "2026-10-29",
       "status": "en_attente",
       "notes": "Commande prioritaire suite à plusieurs pannes tactiles.",
-      "totalAmount": 1450.00,
+      "totalAmount": 1450,
       "items": [
         {
           "id": "item_01",
           "name": "Écran Tactile Bornes EloTouch 22 pouces",
           "description": "Dalle tactile capacitive de remplacement",
           "link": "https://www.ldlc.com",
-          "price": 650.00,
+          "price": 650,
           "quantity": 2,
           "source": "LDLC Pro",
           "deliveryTime": "48h",
@@ -27,7 +51,7 @@
           "name": "Support Mural VESA Renforcé",
           "description": "Fixation métallique orientable",
           "link": "https://www.amazon.fr",
-          "price": 75.00,
+          "price": 75,
           "quantity": 2,
           "source": "Amazon",
           "deliveryTime": "24h",
