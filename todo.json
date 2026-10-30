@@ -1,56 +1,61 @@
 {
-  "todos": [
-    {
-      "id": "todo_ub6873q",
-      "text": "Présenter projet boitier perte",
-      "status": "à faire",
-      "createdAt": "14:17",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_93qybsx",
-      "text": "Envoyer devis model 3D",
-      "status": "à faire",
-      "createdAt": "14:17",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_eml0xrc",
-      "text": "Rajouter app ToDo sur hub IT",
-      "status": "fait",
-      "createdAt": "14:18",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_v7donki",
-      "text": "Mettre à jour le stock IT",
-      "status": "fait",
-      "createdAt": "14:18",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_55rrzx6",
-      "text": "faire devis des composants info boitier perte",
-      "status": "à faire",
-      "createdAt": "14:30",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_arz35js",
-      "text": "faire schema composant nécéssaire boitier perte",
-      "status": "à faire",
-      "createdAt": "14:30",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_8eoy51c",
-      "text": "road map projet boitier perte",
-      "status": "à faire",
-      "createdAt": "14:31",
-      "createdBy": "admin"
-    }
-  ],
+  "todos": [],
   "history": [
+    {
+      "date": "2026-10-30",
+      "validatedBy": "admin",
+      "completedTasks": [
+        {
+          "id": "todo_ub6873q",
+          "text": "Présenter projet boitier perte",
+          "status": "fait",
+          "createdAt": "14:17",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_93qybsx",
+          "text": "Envoyer devis model 3D",
+          "status": "fait",
+          "createdAt": "14:17",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_eml0xrc",
+          "text": "Rajouter app ToDo sur hub IT",
+          "status": "fait",
+          "createdAt": "14:18",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_v7donki",
+          "text": "Mettre à jour le stock IT",
+          "status": "fait",
+          "createdAt": "14:18",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_55rrzx6",
+          "text": "faire devis des composants info boitier perte",
+          "status": "fait",
+          "createdAt": "14:30",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_arz35js",
+          "text": "faire schema composant nécéssaire boitier perte",
+          "status": "fait",
+          "createdAt": "14:30",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_8eoy51c",
+          "text": "road map projet boitier perte",
+          "status": "fait",
+          "createdAt": "14:31",
+          "createdBy": "admin"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "validatedBy": "admin",
