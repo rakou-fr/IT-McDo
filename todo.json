@@ -1,28 +1,33 @@
 {
-  "todos": [
-    {
-      "id": "todo_yqxcvr1",
-      "text": "Formation otp1",
-      "status": "à faire",
-      "createdAt": "09:10",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_eck67h9",
-      "text": "Rapport à mark",
-      "status": "à faire",
-      "createdAt": "09:10",
-      "createdBy": "admin"
-    },
-    {
-      "id": "todo_rpzcku9",
-      "text": "Contacter alternante com",
-      "status": "à faire",
-      "createdAt": "09:10",
-      "createdBy": "admin"
-    }
-  ],
+  "todos": [],
   "history": [
+    {
+      "date": "2026-11-12",
+      "validatedBy": "admin",
+      "completedTasks": [
+        {
+          "id": "todo_yqxcvr1",
+          "text": "Formation otp1",
+          "status": "fait",
+          "createdAt": "09:10",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_eck67h9",
+          "text": "Rapport à mark",
+          "status": "fait",
+          "createdAt": "09:10",
+          "createdBy": "admin"
+        },
+        {
+          "id": "todo_rpzcku9",
+          "text": "Contacter alternante com",
+          "status": "fait",
+          "createdAt": "09:10",
+          "createdBy": "admin"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "validatedBy": "admin",
